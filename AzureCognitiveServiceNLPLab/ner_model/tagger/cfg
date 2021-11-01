@@ -1,7 +1,0 @@
-{
-  "cnn_maxout_pieces":2,
-  "deprecation_fixes":{
-    "vectors_name":"zh_core_wiki_sm.vectors"
-  },
-  "pretrained_vectors":"zh_core_wiki_sm.vectors"
-}
