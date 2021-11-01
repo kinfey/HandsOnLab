@@ -1,0 +1,632 @@
+1
+00:00:03,000 --> 00:00:06,000
+Oh oh, I think today
+
+2
+00:00:06,000 --> 00:00:09,000
+Introduce azure machine learning to all your classmates
+
+3
+00:00:09,000 --> 00:00:12,000
+part of that if everyone
+
+4
+00:00:13,000 --> 00:00:16,000
+Uh, have to watch the little video above and you'll know above
+
+5
+00:00:16,000 --> 00:00:19,000
+There are some very, uh, powerful machine learning
+
+6
+00:00:19,000 --> 00:00:22,000
+some features ah we uh before
+
+7
+00:00:22,000 --> 00:00:25,000
+That introduces a zero code way to do it uh
+
+8
+00:00:25,000 --> 00:00:28,000
+A computer vision task then what follows I think
+
+9
+00:00:28,000 --> 00:00:31,000
+Give everyone a more professional part of everyone know what we do
+
+10
+00:00:32,000 --> 00:00:35,000
+Machine learning will encounter a situation is er
+
+11
+00:00:35,000 --> 00:00:38,000
+We may not have gpu or some
+
+12
+00:00:38,000 --> 00:00:41,000
+Machine learning platforms are also very much built in the environment
+
+13
+00:00:41,000 --> 00:00:44,000
+Inconvenient but if you get through the azure can be quick
+
+14
+00:00:44,000 --> 00:00:47,000
+Go quickly to get the job done you can't
+
+15
+00:00:48,000 --> 00:00:51,000
+Need to pay attention to some of your entire uh platform
+
+16
+00:00:51,000 --> 00:00:54,000
+Build the situation ah installation ah profile and so on
+
+17
+00:00:54,000 --> 00:00:57,000
+You can start some machine learning above your azure
+
+18
+00:00:57,000 --> 00:01:00,000
+Some services include saying logos include saying pythons
+
+19
+00:01:01,000 --> 00:01:04,000
+The environment also has some gpu some calculation
+
+20
+00:01:04,000 --> 00:01:07,000
+Some uh use here words I would like to introduce to you
+
+21
+00:01:07,000 --> 00:01:10,000
+Azure's whole uh machine learning one of the services
+
+22
+00:01:10,000 --> 00:01:13,000
+Platform good first of all we go back to azure portal
+
+23
+00:01:14,000 --> 00:01:17,000
+There's going to be a lot of it in this slope
+
+24
+00:01:17,000 --> 00:01:20,000
+Some uh resources some create us too
+
+25
+00:01:20,000 --> 00:01:23,000
+First of all, we're going to create an azure and about the machine
+
+26
+00:01:23,000 --> 00:01:26,000
+Service uh resources we go to choose ai
+
+27
+00:01:27,000 --> 00:01:30,000
+Add machine learning and then define it here
+
+28
+00:01:30,000 --> 00:01:33,000
+Column uh inside uh the first one is us
+
+29
+00:01:33,000 --> 00:01:36,000
+The machine learning service then clicks To create that one
+
+30
+00:01:37,000 --> 00:01:40,000
+Take him and you'll be guided to a machine learning
+
+31
+00:01:41,000 --> 00:01:44,000
+One of the creations here faces you can
+
+32
+00:01:44,000 --> 00:01:47,000
+Choose the original resource group or yourself
+
+33
+00:01:47,000 --> 00:01:50,000
+You can create another one that you might want to create
+
+34
+00:01:51,000 --> 00:01:54,000
+A machine learning name er is like ldemo
+
+35
+00:01:54,000 --> 00:01:57,000
+Oh then you
+
+36
+00:01:57,000 --> 00:02:00,000
+You can select your region then why your stored account should have
+
+37
+00:02:00,000 --> 00:02:03,000
+Storage because, uh, it can help you if it's in there
+
+38
+00:02:03,000 --> 00:02:06,000
+To save your er Jubit's logo is also relevant
+
+39
+00:02:06,000 --> 00:02:09,000
+Some uh about the data sorting ah uh there's another
+
+40
+00:02:10,000 --> 00:02:13,000
+Some related er includes talking about some of the exercises of training
+
+41
+00:02:13,000 --> 00:02:16,000
+And some uh keys
+
+42
+00:02:16,000 --> 00:02:19,000
+These are all very useful of course you need not go
+
+43
+00:02:19,000 --> 00:02:22,000
+Register a container ah can also default to not
+
+44
+00:02:22,000 --> 00:02:25,000
+Use ah here we don't need to start then
+
+45
+00:02:25,000 --> 00:02:28,000
+Go and create that in the creation
+
+46
+00:02:28,000 --> 00:02:31,000
+In the process he will go and do our verification
+
+47
+00:02:33,000 --> 00:02:36,000
+Step a little if
+
+48
+00:02:36,000 --> 00:02:39,000
+If the validation passes then you can go directly to create when
+
+49
+00:02:39,000 --> 00:02:42,000
+Anne's
+
+50
+00:02:42,000 --> 00:02:45,000
+uh azuremachinelearning service up er
+
+51
+00:02:46,000 --> 00:02:49,000
+Once it's been created, he'll tell you to go
+
+52
+00:02:49,000 --> 00:02:52,000
+Related resources inside that you can see
+
+53
+00:02:52,000 --> 00:02:55,000
+Get oh here if he has put the resources you need
+
+54
+00:02:55,000 --> 00:02:58,000
+The group has been bound to the space that is of course also stored
+
+55
+00:02:58,000 --> 00:03:01,000
+There are positions above that have made some bindings ah here
+
+56
+00:03:02,000 --> 00:03:05,000
+face you can go directly to use your azuremachine
+
+57
+00:03:05,000 --> 00:03:08,000
+a platform for learning on this ah
+
+58
+00:03:08,000 --> 00:03:11,000
+We can click on it depending on the situation
+
+59
+00:03:11,000 --> 00:03:14,000
+Ah, the url in this studio
+
+60
+00:03:14,000 --> 00:03:17,000
+Go and jump to our azure machine service
+
+61
+00:03:18,000 --> 00:03:21,000
+One uh related one connects that one
+
+62
+00:03:21,000 --> 00:03:24,000
+Then you can create love for you according to your needs
+
+63
+00:03:24,000 --> 00:03:27,000
+Uh, some public, uh, some related to machine learning
+
+64
+00:03:27,000 --> 00:03:30,000
+Work example uh we may need to do machine learning
+
+65
+00:03:31,000 --> 00:03:34,000
+To logo then you this time you may be going to uh
+
+66
+00:03:34,000 --> 00:03:37,000
+Do the operation of logo ah here you can go
+
+67
+00:03:37,000 --> 00:03:40,000
+Add ah new logo can also be uh
+
+68
+00:03:40,000 --> 00:03:43,000
+Go inside the sample because you're going to study then you can
+
+69
+00:03:44,000 --> 00:03:47,000
+Above go uh learn a uh add
+
+70
+00:03:47,000 --> 00:03:50,000
+How about a er-related one going
+
+71
+00:03:50,000 --> 00:03:53,000
+Use mlexperiment to operate that time
+
+72
+00:03:53,000 --> 00:03:56,000
+You can go to a folder in xsample
+
+73
+00:03:56,000 --> 00:03:59,000
+Clone it on top of your local like I'm in
+
+74
+00:04:00,000 --> 00:04:03,000
+Here is a catalogue of looking fees ah
+
+75
+00:04:05,000 --> 00:04:08,000
+It's my name and then clone him
+
+76
+00:04:08,000 --> 00:04:11,000
+Put the file inside uhsample uh clone the truth uh
+
+77
+00:04:11,000 --> 00:04:14,000
+One directory above and then the words below it seem
+
+78
+00:04:14,000 --> 00:04:17,000
+Said I was going to er mess up one of my sdka
+
+79
+00:04:17,000 --> 00:04:20,000
+ml sdk then I click on him
+
+80
+00:04:20,000 --> 00:04:23,000
+file when you can find ah his ml
+
+81
+00:04:24,000 --> 00:04:27,000
+Ah, English is relatively tall but not afraid
+
+82
+00:04:27,000 --> 00:04:30,000
+Ah, uh, all of them
+
+83
+00:04:30,000 --> 00:04:33,000
+How to go uh to take advantage of this
+
+84
+00:04:33,000 --> 00:04:36,000
+Azuremachinelearning does some model training
+
+85
+00:04:36,000 --> 00:04:39,000
+That's when people know you need to do something relevant
+
+86
+00:04:39,000 --> 00:04:42,000
+some of the calculations uh then you this take
+
+87
+00:04:42,000 --> 00:04:45,000
+He'll tell you what to do if you don't do the calculation
+
+88
+00:04:45,000 --> 00:04:48,000
+Choose a er new one
+
+89
+00:04:48,000 --> 00:04:51,000
+Here you can choose is gpu and cpu
+
+90
+00:04:52,000 --> 00:04:55,000
+Thecomputer because I'm here for that
+
+91
+00:04:55,000 --> 00:04:58,000
+Uh there's one you can use called m
+
+92
+00:04:58,000 --> 00:05:01,000
+When choosing gpu you can choose is er
+
+93
+00:05:01,000 --> 00:05:04,000
+m60 a gpu a calculation of course you
+
+94
+00:05:04,000 --> 00:05:07,000
+If it's a little saving, because you have students
+
+95
+00:05:08,000 --> 00:05:11,000
+Account ah has a hundred knives of a uh calculation
+
+96
+00:05:11,000 --> 00:05:14,000
+A support for that time you can choose ah one
+
+97
+00:05:14,000 --> 00:05:17,000
+Gpu ah every hour to count 1.5
+
+98
+00:05:18,000 --> 00:05:21,000
+Eight dollars, 1.5558 knives
+
+99
+00:05:21,000 --> 00:05:24,000
+Ah, a calculation ah so here in the words
+
+100
+00:05:24,000 --> 00:05:27,000
+Ah, you can do it according to your needs and this
+
+101
+00:05:27,000 --> 00:05:30,000
+It doesn't cost you to stop it when you don't use it
+
+102
+00:05:31,000 --> 00:05:34,000
+So you have to look at your own reality of course you
+
+103
+00:05:34,000 --> 00:05:37,000
+It can be used in the words of cpucpu it has a lot of cu
+
+104
+00:05:37,000 --> 00:05:40,000
+Uh--- the arithmetic is on it like I am here
+
+105
+00:05:40,000 --> 00:05:43,000
+Used a er plain called ds3v2
+
+106
+00:05:43,000 --> 00:05:46,000
+A cpu it is zero one four knives ah
+
+107
+00:05:46,000 --> 00:05:49,000
+Uh four-and-a-half knives ah as every hour
+
+108
+00:05:50,000 --> 00:05:53,000
+The calculation of which I create here is also false
+
+109
+00:05:53,000 --> 00:05:56,000
+uh to create ah uh it
+
+110
+00:05:57,000 --> 00:06:00,000
+Will create a success will tell you oh this thing is how
+
+111
+00:06:00,000 --> 00:06:03,000
+Son of the uh you can see ha
+
+112
+00:06:03,000 --> 00:06:06,000
+Oh, and you don't need to put in your calculations
+
+113
+00:06:06,000 --> 00:06:09,000
+Itch and you can go uh do a lot
+
+114
+00:06:09,000 --> 00:06:12,000
+Some machine learning-related work is else here
+
+115
+00:06:12,000 --> 00:06:15,000
+Face I would like to introduce to you a very interesting
+
+116
+00:06:16,000 --> 00:06:19,000
+The thing is his game and we're waiting to calculate
+
+117
+00:06:19,000 --> 00:06:22,000
+Well, this calculation er-creative start-up
+
+118
+00:06:23,000 --> 00:06:26,000
+You can go to the game when you get up
+
+119
+00:06:26,000 --> 00:06:29,000
+What is this third?
+
+120
+00:06:29,000 --> 00:06:32,000
+Windows above well we can be very simple
+
+121
+00:06:33,000 --> 00:06:36,000
+Go drag and drop some controls to complete some windows
+
+122
+00:06:36,000 --> 00:06:39,000
+The interface ah here in the words you can
+
+123
+00:06:39,000 --> 00:06:42,000
+Through ah related uh one
+
+124
+00:06:43,000 --> 00:06:46,000
+uh drag uh to finish machine learning inside related
+
+125
+00:06:46,000 --> 00:06:49,000
+Some knowledge of some creation as I am here for everyone
+
+126
+00:06:50,000 --> 00:06:53,000
+You can see that I have selected an image recognition action
+
+127
+00:06:53,000 --> 00:06:56,000
+And then, uh, if you choose this game you can watch
+
+128
+00:06:56,000 --> 00:06:59,000
+to it from the graphic image hurry ah to the image
+
+129
+00:07:00,000 --> 00:07:03,000
+Some transition to some categories of image pictures
+
+130
+00:07:03,000 --> 00:07:06,000
+Training is done by dragging
+
+131
+00:07:06,000 --> 00:07:09,000
+Then he'll make machine learning even more uh
+
+132
+00:07:10,000 --> 00:07:13,000
+Automation is so good
+
+133
+00:07:13,000 --> 00:07:16,000
+Well, uh through azure machine learning service you can uh through
+
+134
+00:07:16,000 --> 00:07:19,000
+Designer to complete the steps of your machine learning
+
+135
+00:07:20,000 --> 00:07:23,000
+It is also another popular use in the industry
+
+136
+00:07:23,000 --> 00:07:26,000
+automl to complete related tasks
+
+137
+00:07:26,000 --> 00:07:29,000
+It is also very convenient to use then we go back
+
+138
+00:07:29,000 --> 00:07:32,000
+Our logo to see if he's finished
+
+139
+00:07:33,000 --> 00:07:36,000
+Good when we calculate
+
+140
+00:07:36,000 --> 00:07:39,000
+After the force is created ah you can see that he will go
+
+141
+00:07:39,000 --> 00:07:42,000
+Remind you oh this calculation has been created successfully then
+
+142
+00:07:42,000 --> 00:07:45,000
+At this time, uh, people will be worried
+
+143
+00:07:46,000 --> 00:07:49,000
+Alas, my calculation is to use the three environment to give you an example
+
+144
+00:07:49,000 --> 00:07:52,000
+You can use python 3.6
+
+145
+00:07:52,000 --> 00:07:55,000
+Of course, the environment can also use 3.8 ah and there is another
+
+146
+00:07:55,000 --> 00:07:58,000
+It also supports r as a support for this calculation force so
+
+147
+00:07:59,000 --> 00:08:02,000
+It's very convenient to be here
+
+148
+00:08:02,000 --> 00:08:05,000
+You can go online through uhlogo
+
+149
+00:08:05,000 --> 00:08:08,000
+This logo goes to add code and then runs so
+
+150
+00:08:08,000 --> 00:08:11,000
+Services via auremachinelearning, uh
+
+151
+00:08:11,000 --> 00:08:14,000
+can let your machine learn er uh learn
+
+152
+00:08:15,000 --> 00:08:18,000
+Or the experimental environment gets a boost and
+
+153
+00:08:18,000 --> 00:08:21,000
+It's going to be done without paying
+
+154
+00:08:21,000 --> 00:08:24,000
+Finish this thing ah hope that all the students ah immediately
+
+155
+00:08:24,000 --> 00:08:27,000
+Go and try it, uh, through the azure
+
+156
+00:08:28,000 --> 00:08:31,000
+Machine learning services to complete your uhai
+
+157
+00:08:31,000 --> 00:08:34,000
+Learning ah can also be used as a learning environment ah
+
+158
+00:08:32,000 --> 00:08:35,000
+Thank you
+
