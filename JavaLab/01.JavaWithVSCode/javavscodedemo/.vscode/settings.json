@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.configuration.runtimes": [
+        {
+          "name": "JavaSE-1.11",
+          "path": "C:\\Program Files\\Microsoft\\jdk-11.0.12.7-hotspot",
+        },
+      ]
+}
