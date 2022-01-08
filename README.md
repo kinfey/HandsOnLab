@@ -17,6 +17,11 @@ This is Hands on Lab about NLP in Azure Cognitive Service
 
 Introduce Azure Machine Learning Hands On Lab about Computer Vision ，including Azure Cognitive Service , Custom Vision , and TensorFlow in Azure Machine Learning
 
+
+**IoTJetsonNanoLab1**
+
+Complete computer vision tasks with JetsonNano in combination with Azure Custom Vision.
+
 **JavaLab**
 
 Introduce how to deploy and migrate Java applications to Azure, including Visual Studio Code debugging Java applications, Spring Boot deployment through containers or Web App, Github Action integrated deployment to Azure, and the use of Azure Spring Cloud
@@ -43,3 +48,8 @@ Introduce how to deploy and migrate Java applications to Azure, including Visual
 **JavaLab**
 
 介绍如何部署，迁移Java应用到Azure, 包括Visual Studio Code 调试Java 应用， Spring Boot通过容器或Web App 方式部署，Github Action集成部署到Azure , 以及Azure Spring Cloud 的使用
+
+
+**IoT—JetsonNano 动手实验一-基础**
+
+通过JetsonNano 结合Azure Custom Vision 完成计算机视觉任务。
