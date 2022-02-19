@@ -1,0 +1,4 @@
+{
+    "Id": "MNIST",
+    "Scope": "/subscriptions/a55f85f4-07fd-4798-ba7b-025be3b07f52/resourceGroups/KinfeyMLSpace/providers/Microsoft.MachineLearningServices/workspaces/KinfeyMLWSDemo2/experiments/MNIST"
+}

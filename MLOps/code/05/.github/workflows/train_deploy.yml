@@ -1,0 +1,26 @@
+name: train
+on: [push]
+jobs:
+  run:
+    runs-on: [ubuntu-latest]
+    container: docker://dvcorg/cml-py3:latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: train_pipeline
+        env:
+          # get all information
+          # az ad sp create-for-rbac --sdk-auth --name ml-auth 
+          # repo_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          AZUREML_CLIENTID: ${{secrets.AZUREML_CLIENTID}}
+          AZUREML_TENANTID: ${{secrets.AZUREML_TENANTID}}
+          AZUREML_SECRET: ${{secrets.AZUREML_SECRET}}
+          AZUREML_SUBSCRIPTION: ${{secrets.AZUREML_SUBSCRIPTION}}
+          AZUREML_RESOURCE_GROUP: ${{secrets.AZUREML_RESOURCE_GROUP}}
+          AZUREML_WORKSPACE: ${{secrets.AZUREML_WORKSPACE}}
+        run: |
+          # Your ML workflow goes here
+          pip install -r requirements.txt
+          python iris_train_pipeline.py
+          # echo "supervised learning output"
+          # cat output.txt
