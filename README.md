@@ -23,7 +23,7 @@ Introduce Azure Machine Learning Hands On Lab about Computer Vision ，including
 Complete computer vision tasks with JetsonNano in combination with Azure Custom Vision.
 
 
-# **MLOps**
+**MLOps**
 
 This hands-on experiment is based on Azure ML, and cooperates with GitHub Action to complete the experiment of related MLOps
 
@@ -62,6 +62,6 @@ Introduce how to deploy and migrate Java applications to Azure, including Visual
 通过JetsonNano 结合Azure Custom Vision 完成计算机视觉任务。
 
 
-# **MLOps**
+**MLOps**
 
 本次动手实验基于 Azure ML  ，并配合 GitHub Action 来完成相关 MLOps的实验。
