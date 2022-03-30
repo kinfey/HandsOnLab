@@ -28,6 +28,11 @@ Complete computer vision tasks with JetsonNano in combination with Azure Custom 
 This hands-on experiment is based on Azure ML, and cooperates with GitHub Action to complete the experiment of related MLOps
 
 
+**CrossPlatform**
+
+Introduce how to deploy and migrate Java applications to Azure, including Visual Studio Code debugging Java applications, Spring Boot deployment through containers or Web App, Github Action integrated deployment to Azure, and the use of Azure Spring Cloud
+
+
 
 **JavaLab**
 
@@ -60,6 +65,11 @@ Introduce how to deploy and migrate Java applications to Azure, including Visual
 **IoT—JetsonNano 动手实验一-基础**
 
 通过JetsonNano 结合Azure Custom Vision 完成计算机视觉任务。
+
+
+**CrossPlatform**
+
+你想学习最新的跨平台移动应用吗？ 本次动手实验会介绍如何使用 MAUI ，以及通过 Comet 来完成跨平台应用的开发 。
 
 
 **MLOps**
