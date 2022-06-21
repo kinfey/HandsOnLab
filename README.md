@@ -9,6 +9,11 @@ These contents are for  technology beginner. You can download them to learn new 
 Introduce how to use .NET Core in Machine Learning , including ML.NET / TensorFlow.NET
 
 
+**TorchSharpLab**
+
+Introduce how to use PyTorch in .NET
+
+
 **AzureCognitiveServiceNLPLab**
 
 This is Hands on Lab about NLP in Azure Cognitive Service
@@ -52,6 +57,11 @@ GitHub Copilot is powered by Codex, the new AI system created by OpenAI. GitHub 
 **MLNetLab**
 
 介绍.NET Core如何做机器学习，包括TensorFlow.NET , ML.NET等技术
+
+
+**TorchSharpLab**
+
+介绍如何在 .NET 中使用 PyTorch
 
 **AzureCognitiveServiceNLPLab**
 
